@@ -15,7 +15,3 @@ cd android
 for release
 cd android
 ./gradlew app:signingReport
-
-## Source and attribution
-
-This independent repository is a copy of [morikeli/uber-driver-app](https://github.com/morikeli/uber-driver-app). The original Git commit history, authorship, and existing license notices have been preserved. Credit for the original project belongs to its original authors and contributors. This copy is maintained by [georges-mars](https://github.com/georges-mars).
